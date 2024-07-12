@@ -1,0 +1,59 @@
+{ "videos":[
+        {
+            "id": 1,
+            "titulo": "¿Cuándo usar let, var y const?",
+            "capa": "https://img.youtube.com/vi/PztCEdIJITY/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/PztCEdIJITY?si=_Y_wtNwbO0AEE2OX",
+            "categoria": "FRONT END"
+        },
+        {
+            "id": 2,
+            "titulo": "Cómo volverse un desarrollador Front End",
+            "capa": "https://img.youtube.com/vi/-Ou5c3A225k/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/-Ou5c3A225k?si=WaNRTxSFZnosRuaQ",
+            "categoria": "FRONT END"
+        },
+        {
+            "id": 3,
+            "titulo": "Inmersión Java: Tus primeros pasos con Java",
+            "capa": "https://img.youtube.com/vi/C6ohBxRSVj4/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/C6ohBxRSVj4?si=RfWaP1ItF6qr7jw3",
+            "categoria": "BACK END"
+        },
+        {
+            "id": 4,
+            "titulo": "Desmistificando el Back-End",
+            "capa": "https://img.youtube.com/vi/LLt7FreeHfQ/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/LLt7FreeHfQ?si=c_4ZGcA4oKHDaG6m",
+            "categoria": "BACK END"
+        },
+        {
+            "id": 5,
+            "titulo": "¿Qué son las Soft Skills?",
+            "capa": "https://img.youtube.com/vi/vhwspfvI52k/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/vhwspfvI52k?si=T9hKU7Xn_I82Wo5Q",
+            "categoria": "INNOVACIÓN Y GESTIÓN"
+        },
+        {
+            "id": 6,
+            "titulo": "Técnicas para mejorar tu aprendizaje",
+            "capa": "https://img.youtube.com/vi/KSyqCUAr2CU/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/KSyqCUAr2CU?si=kN_seC5Ivxz7kkNW",
+            "categoria": "INNOVACIÓN Y GESTIÓN"
+        },
+        {
+            "id": 7,
+            "titulo": "Python para Data Science",
+            "capa": "https://img.youtube.com/vi/JMKZMa0tMhQ/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/JMKZMa0tMhQ?si=X_pzYB9duVBHhRfv",
+            "categoria": "DATA SCIENCE"
+        },
+        {
+            "id": 8,
+            "titulo": "¿Por qué estudiar Data Science?",
+            "capa": "https://img.youtube.com/vi/7_UXo-aqAeM/hqdefault.jpg",
+            "link": "https://www.youtube.com/embed/7_UXo-aqAeM?si=IWjIXHKLavaNp2Z5",
+            "categoria": "DATA SCIENCE"
+        }
+    ]
+}
